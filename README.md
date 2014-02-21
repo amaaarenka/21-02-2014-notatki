@@ -17,9 +17,9 @@ Praktycznie kazdy jezyk programowania ma taki program [Hello World program][1].
 ## TODO
 
 W Niedziele:
-1. Porozmawiać o Gifthub Desctop
-1. Powtórzyć notację Markdown.
-1. Markdown online.
+1.Porozmawiać o Gifthub Desctop
+1.Powtórzyć notację Markdown.
+1.Markdown online.
 
 
 [1]:http://pl.wikipedia.org/wiki/Hello_world
