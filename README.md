@@ -21,7 +21,7 @@ W Niedziele:
 1. Porozmawiac o Gifthub Desctop
 1. Powtorzyc notacje Markdown.
   - Markdown online.
-
+1. Tabelki
 
 [1]:http://pl.wikipedia.org/wiki/Hello_world
 
