@@ -1,4 +1,4 @@
-![D. M. Ritchie](http://pl.wikipedia.org/wiki/Hello_world)
+![D. M. Ritchie](http://en.wikipedia.org/wiki/File:Dennis_MacAlistair_Ritchie.jpg)
 
 ## Pierwsze programy w C
 
