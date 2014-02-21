@@ -10,4 +10,8 @@ int main() {
 }
 ```C
 
-Praktycznie każdy język programowania ma taki program, zob.[Hello World program](http://pl.wikipedia.org)
+Praktycznie każdy język programowania ma taki program, 
+zob.[Hello World program][1].
+
+[1]:http://pl.wikipedia.org/wiki/Hello_world
+
