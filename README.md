@@ -1,4 +1,4 @@
-21-02-2014-notatki
-==================
+## Pierwsze programy w C
 
-pierwsze zajecia z technologii internetowych
+Zwyczajowo (kto to wymyślił?) zaczynamy od programu:
+*Hello World*:
